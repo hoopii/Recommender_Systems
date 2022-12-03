@@ -1,1 +1,2 @@
 to do repository: 
+- comment out notebook, especially the very dense functions
