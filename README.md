@@ -4,7 +4,7 @@ Build item-based, user-based and model-based recommender system based on movie r
 ![grafik](https://user-images.githubusercontent.com/100354393/205451966-2a04b46f-e4b4-4723-948f-564818cd25d5.png)
  
 ## Goal
-create movie recommender systems that give users of a yet to come online store relevant content to watch    
+Create movie recommender systems that give users of a yet to come online store relevant content to watch    
 using a dataset of nearly 10.000 movies and more than 100.000 user ratings
 
 ## Dataset
