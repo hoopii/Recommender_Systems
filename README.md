@@ -1,4 +1,4 @@
-# Recommender_Systems
+# Recommender Systems
 Build item-based, user-based and model-based recommender system based on movie ratings
 
 ![grafik](https://user-images.githubusercontent.com/100354393/205451966-2a04b46f-e4b4-4723-948f-564818cd25d5.png)
