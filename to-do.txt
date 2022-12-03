@@ -1,2 +1,3 @@
 to do repository: 
 - comment out notebook, especially the very dense functions
+- add content to the last three headlines: Skills, Basic Steps and Files 
