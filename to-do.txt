@@ -9,3 +9,4 @@ to do repository:
 	only at the end
 	- I deleted the coe for the five different genres in the popularity ranking, meaning the optimization for the popularity ranking which says that the list should contain at least one movie of each genre: 
     Include the code again and make it work. 
+	- update the Skills in Readme-File 
