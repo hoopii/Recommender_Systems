@@ -29,9 +29,10 @@ Create user-based, item-based and model-based movie recommender systems as well 
 - Apply cosine_similarity function in Scikit-Learn
 - Compute Cosine Similarities
 - Compute weighted averages
-- apply matrix factorization algorithms for model based recommenders
-- 
-- 
+- Work with "surprise", a Python scikit for recommender systems. 
+- Apply matrix factorization algorithms for model based recommenders
+- Tune model with GridSearch and Cross-Validation
+- Automate the process using Python functions
 
 ## Basic Steps 
 Based on the example User-based Collaborative Filtering: 
@@ -44,3 +45,9 @@ Based on the example User-based Collaborative Filtering:
 7. Evaluate the recommendation system
 
 ## Files in this repository
+- [Description of the dataset](../main/description_dataset.txt)
+- [Notebook with the code for all recommendation systems](../main/movies_recommender_systems.ipynb)
+- [Data: Movies](../main/movies.csv)
+- [Data: Ratings](../main/ratings.csv)
+- [Data: Links](../main/links.csv)  
+- [Data: Tags](../main/tags.csv)  
