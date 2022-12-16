@@ -27,7 +27,6 @@ Create user-based, item-based and model-based movie recommender systems as well 
 ## Skills/Methods
 - Pivot-Tables in Python/Pandas
 - Apply cosine_similarity function in Scikit-Learn
-- Compute Cosine Similarities
 - Compute weighted averages
 - Work with "surprise", a Python scikit for recommender systems. 
 - Apply matrix factorization algorithms for model based recommenders
