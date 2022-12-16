@@ -1,10 +1,13 @@
-# Recommender Systems
+# Recommendation Systems
 ### Build item-based, user-based and model-based recommender system based on movie ratings
 
 ![grafik](https://user-images.githubusercontent.com/100354393/205451966-2a04b46f-e4b4-4723-948f-564818cd25d5.png)
  
 ## Goal
-Create user-based, item-based and model-based movie recommender systems inspired by Netflix recommendations using a dataset of nearly 10.000 movies with more than 100.000 user ratings
+
+![grafik](../main/Screenshot-2022-01-28-101727.png)
+
+Create user-based, item-based and model-based movie recommender systems inspired by Netflix recommendations using a real life dataset of nearly 10.000 movies with more than 100.000 user ratings
 
 ## Dataset
 - GroupLens, which gathered this data, is a research group in the Department of Computer Science and Engineering at the University of Minnesota. Since its inception in 1992, GroupLens's research projects have explored a variety of fields including:   
@@ -22,7 +25,8 @@ Create user-based, item-based and model-based movie recommender systems inspired
 
 
 ## Skills/Methods
-- 
+- apply various algorithms for recommendation systems in Python, using 
+
 
 
 ## Basic Steps 
