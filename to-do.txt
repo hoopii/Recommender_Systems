@@ -1,3 +1,11 @@
 to do repository: 
-- comment out notebook, especially the very dense functions
-- add content to the last three headlines: Skills, Basic Steps and Files 
+- Notebook:
+	- comment out the code, especially the very dense functions
+	- better document the steps and results etc. 
+	- edit the section on evaluation 
+	- I deleted the optimization for the popularity ranking which includes at least one movie from
+	- make a function out of the model based recommender  
+	- maybe split up the code in more than one notebook and code step by step with function 
+	only at the end
+	- I deleted the coe for the five different genres in the popularity ranking, meaning the optimization for the popularity ranking which says that the list should contain at least one movie of each genre: 
+    Include the code again and make it work. 
