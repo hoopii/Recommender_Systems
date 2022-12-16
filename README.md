@@ -24,13 +24,23 @@ Create user-based, item-based and model-based movie recommender systems as well 
 - These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.  
 --> for more information on the dataset look at the [description file in the repository](../main/description_dataset.txt)  
 
-
 ## Skills/Methods
-- Missing Values
-- apply various algorithms for recommendation systems in Python, using 
+- Pivot-Tables in Python/Pandas
+- Apply cosine_similarity function in Scikit-Learn
+- Compute Cosine Similarities
+- Compute weighted averages
+- apply matrix factorization algorithms for model based recommenders
+- 
+- 
 
 ## Basic Steps 
-Based on the example User-based Collaborative Filtering
-
+Based on the example User-based Collaborative Filtering: 
+1. Create a user-item matrix as data structure for further processing
+2. Replace Missing Values
+3. Compute Similarities between Users
+4. Turn Similarities into Weights using the weighted average
+5. Estimate missing Ratings
+6. Create a function that takes the users userId, and a number (n) and outputs the n most recommended movies based on the cosine similarity of other users.
+7. Evaluate the recommendation system
 
 ## Files in this repository
